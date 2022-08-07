@@ -1,2 +1,2 @@
 # Educa
-### A Responsive Online Education Website Design
+### a responsive online education website
